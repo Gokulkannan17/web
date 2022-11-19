@@ -52,5 +52,5 @@ def method():
 
 
 if __name__ == "__main__":
-    model = load_model(r'C:\Users\Gokulkannan Ramasamy\Downloads\crudeoilprediction.h5')
+    model = load_model('crudeoilprediction.h5')
     app.run(debug=True)
