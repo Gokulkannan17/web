@@ -1,2 +1,1 @@
-pip install flask
-pip install --upgrade pip
+ Flask== 2.2.2
